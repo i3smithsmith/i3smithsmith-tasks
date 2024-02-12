@@ -6,6 +6,7 @@ This repo exists to help i3 members be able to shine how they want to.
 
 2. <a href="https://github.com/i3smithsmith/i3smithsmith-tasks/wiki">i3smithsmith-tasks Wiki</a> with thoughts to consider.
 
+3. <a href="https://i3smith.com">i3smith.com</a> (external) with resources.
 
 <br>
 <br>
