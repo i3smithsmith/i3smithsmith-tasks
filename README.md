@@ -2,9 +2,9 @@ This repo exists to help i3 members be able to shine how they want to.
 
 <br>
 
-1. <a href="https://github.com/i3smithsmith/i3smithsmith-tasks/issues">Oppritunities</a> to consider at i3.
+1. <a href="https://github.com/i3smithsmith/i3smithsmith-tasks/issues">i3smithsmith-tasks Oppritunities</a> to consider at i3.
 
-2. <a href="https://github.com/i3smithsmith/i3smithsmith-tasks/wiki">Wiki</a> with thoughts to consider.
+2. <a href="https://github.com/i3smithsmith/i3smithsmith-tasks/wiki">i3smithsmith-tasks Wiki</a> with thoughts to consider.
 
 
 <br>
